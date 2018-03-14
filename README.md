@@ -7,12 +7,12 @@
 # [Link fb](https://www.facebook.com/profile.php?id=100005610974736)
 
 # Tạo table hiển thị thời khoá biểu học tập ở trường: 
- | Thu 2     | Thu 3  | Thu 4  | Thu 5  | Thu 6   | Thu 7 |
-| ------------- |-------------|------------|-------------|-------------|-------------| --------- |
-|  | |Linux||HCM|TH Linux| --------- |
-|   ||HDH|PTUDCSDL2|PLĐC| TH HDH |
-|  |Web2|TH Web2|||  |
-| ||TH PTUDCSDL2|||| --------- |
+ | Thu 2    | Thu 3    | Thu 4   |Thu 5   |Thu 6   |Thu 7
+| -------- |:--------:|:--------:|:--------:|:--------|:--------:|
+| -------- | -------- | Linux      |--------|TT HCM  |TH Linux
+| -------- | -------- | HDH        |LTUDQL2 |  PLDC  |TH HDH
+| -------- | Web 2    | TH web     |--------|--------|--------
+| -------- | -------- | TH LTQLUD 2|--------|--------|--------
 
 
  
